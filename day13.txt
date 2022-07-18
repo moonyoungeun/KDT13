@@ -1,0 +1,33 @@
+220718
+
+DOM
+(Document Object Model)
+
+querySelector
+getElementById
+classList
+AddEventListener
+setAttribute
+textContent
+querySelectorAll
+
+
+
+//과제리뷰//
+console.log (test.checked);
+js에서 css를 바꿀때는 style이라는 코드를 사용한다.
+js는 -로 연결 할 수 없다. 보통은 카멜케이스로 연결해준다.
+
+event는 e로 넘길 수 있음
+this는 t로 넘길 수 있음
+
+
+append() , appendChild()
+부모 노드의 제일 마지막 자식 요소로 추가
+append()는 Node 와 String 추가 가능 , 여러가지 값을 한번에 붙일 수 있음. 반화값이 없음.
+appendChild()는 Node 만 추가 가능. 추가한 Node를 반환 한다.
+tagName은 추가한 것의 태그를 추가 하거나 어떤 내용인지 알려주는 것.
+
+
+JQuery
+
